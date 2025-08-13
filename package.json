@@ -1,0 +1,29 @@
+{
+  "name": "email-verifecation-folder",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000N\u0000o\u0000d\u0000e\u0000.\u0000j\u0000s\u0000 \u0000E\u0000m\u0000a\u0000i\u0000l\u0000 \u0000V\u0000e\u0000r\u0000i\u0000f\u0000i\u0000c\u0000a\u0000t\u0000i\u0000o\u0000n\u0000 \u0000A\u0000p\u0000p\u0000\r\u0000 \u0000",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ali-abdulsameea-abubaker/node-email-verification.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ali-abdulsameea-abubaker/node-email-verification/issues"
+  },
+  "homepage": "https://github.com/ali-abdulsameea-abubaker/node-email-verification#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "dotenv": "^17.2.1",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.3",
+    "nodemailer": "^7.0.5"
+  }
+}
